@@ -2,6 +2,8 @@
 Money well Take home
 
 Swagger docs: http://localhost:2024/swagger-ui/index.html
+
+
 Application.properties field:
 spring:
   datasource:
